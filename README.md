@@ -16,8 +16,10 @@ Here are some ideas to get you started:
 -->
 <h1 align="center"> 
   
-  𝐇𝐞𝐥𝐥𝐨,  >
+  𝐇𝐞𝐥𝐥𝐨,  
 </h1>
+<img src='https://usagif.com/cdn-cgi/mirage/bee3c3fab7ff58a2764d98e0a2ebd5314f3a1036cb346968cbc4423b6cfeef58/1280/https://usagif.com/wp-content/uploads/gifs/hola-24.gif'>
+
 <p align="center">
   <em>
     Hello, I'm Yurledys! <br>
