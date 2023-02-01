@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 <h1 align="center"> 
   
-  𝐇𝐞𝐥𝐥𝐨,  height="480" frameBorder="0" class="giphy-embed" allowFullScreen>
+  𝐇𝐞𝐥𝐥𝐨,  >
 </h1>
 <p align="center">
   <em>
